@@ -1,8 +1,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="">
-    <img src="" alt="Logo" width="80" height="80">
+  <a href="https://github.com/edualvarado/space-breaker">
+    <img src="Images/Header.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Space Breaker</h3>
@@ -10,8 +10,8 @@
   <p align="center">
     An Unity 2D Game for WebGL
     <br />
-    <a href="">Play Game</a>
+    <a href="https://edualvarado.github.io/space-breaker/">Play Game</a>
     ·
-    <a href="">See code</a>
+    <a href="https://github.com/edualvarado/unity-2D-dev-course/tree/master/Block_Breaker/Block%20Breaker">See code</a>
   </p>
 </p>
