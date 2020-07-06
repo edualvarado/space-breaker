@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/edualvarado/space-breaker">
-    <img src="Images/header.PNG" alt="Logo" width="80" height="80">
+    <img src="Images/header.PNG" alt="Logo" width="400" height="200">
   </a>
 
   <h3 align="center">Space Breaker</h3>
